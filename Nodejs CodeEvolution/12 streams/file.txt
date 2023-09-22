@@ -1,0 +1,1 @@
+Hi There!! I am From Streams this content is send to file2.txt file using streams concept!!!!!
